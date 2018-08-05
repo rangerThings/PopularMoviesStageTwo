@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopularMoviesStageTwo</string>
+    <string name="pref_sort">popular</string>
+    <string name="pref_text">Sorted by Popularity</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_popular">Popularity</string>
+    <string name="sort_top_rated">Top Rated</string>
+    <string name="poster_resource">Poster Resource</string>
+    <string name="trailer">Trailers:</string>
+    <string name="trailer_resource">Trailer Resource</string>
+    <string name="review_resource">Review Resource</string>
+    <string name="reviews">Reviews:</string>
+    <string name="removed_fav_text">removed from favorites.</string>
+    <string name="add_fav_text">added to favorites.</string>
+    <string name="avg_ten">/10</string>
+    <string name="no_reviews">No reviews.</string>
+    <string name="no_videos">No videos.</string>
+    <string name="offline_mode">Offline Mode: Favorites only</string>
+    <string name="favorites">Favorites</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="paddingTop">5dp</dimen>
+    <dimen name ="paddingBottom">5dp</dimen>
+    <dimen name="titleHeading">16sp</dimen>
+    <dimen name="big_word">25sp</dimen>
+    <dimen name="med_word">15sp</dimen>
+    <dimen name="line_width">5dp</dimen>
+</resources>
